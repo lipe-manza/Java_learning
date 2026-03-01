@@ -15,6 +15,11 @@ public class dice_roller {
         if (numOfDice > 0) {
 
             for (int i = 0; i < numOfDice; i++) {
+                try{
+                    Thread.sleep(2000);
+                }catch(InterruptedException e){
+                    System.out.println(e);
+                }
                 int roll = random.nextInt(1, 7);
                 System.out.println("You rolled: " + roll);
                 printDie(roll);

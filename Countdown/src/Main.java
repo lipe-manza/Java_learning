@@ -6,7 +6,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         int max;
-
+    
 
         System.out.print("Enter the time of the Countdown:");
         max = scanner.nextInt();
