@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays_2d/Arrays_2d.iml" filepath="$PROJECT_DIR$/Arrays_2d/Arrays_2d.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Countdown/Countdown.iml" filepath="$PROJECT_DIR$/Countdown/Countdown.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quiz_Game/Quiz_Game.iml" filepath="$PROJECT_DIR$/Quiz_Game/Quiz_Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ramdom_coin_dice/Ramdom_coin_dice.iml" filepath="$PROJECT_DIR$/Ramdom_coin_dice/Ramdom_coin_dice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Random_guessing_game/Random_guessing_game.iml" filepath="$PROJECT_DIR$/Random_guessing_game/Random_guessing_game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rock_Paper_Scissors/Rock_Paper_Scissors.iml" filepath="$PROJECT_DIR$/Rock_Paper_Scissors/Rock_Paper_Scissors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Roll_dice/Roll_dice.iml" filepath="$PROJECT_DIR$/Roll_dice/Roll_dice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Shopping_Hall/Shopping_Hall.iml" filepath="$PROJECT_DIR$/Shopping_Hall/Shopping_Hall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array_strings/array_strings.iml" filepath="$PROJECT_DIR$/array_strings/array_strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/compound_interest_caulculator/compound_interest_caulculator.iml" filepath="$PROJECT_DIR$/compound_interest_caulculator/compound_interest_caulculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/if_statments/if_statments.iml" filepath="$PROJECT_DIR$/if_statments/if_statments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java_learning.iml" filepath="$PROJECT_DIR$/.idea/java_learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/search_array/search_array.iml" filepath="$PROJECT_DIR$/search_array/search_array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/temperature_converter/temperature_converter.iml" filepath="$PROJECT_DIR$/temperature_converter/temperature_converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/varargs/varargs.iml" filepath="$PROJECT_DIR$/varargs/varargs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weight_converter/weight_converter.iml" filepath="$PROJECT_DIR$/weight_converter/weight_converter.iml" />
+    </modules>
+  </component>
+</project>
